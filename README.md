@@ -1,4 +1,4 @@
-This project features a dynamic grass shader based on this Grass Shader video (https://www.youtube.com/watch?v=IjfBlUtJF_0&list=WL) using URP. 
+This project includes a dynamic grass shader based on this Grass Shader video (https://www.youtube.com/watch?v=IjfBlUtJF_0&list=WL) created with Shader Graph and URP. 
 
 It includes a custom interaction where grass bends when an object passes nearby.
 
